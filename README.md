@@ -2,8 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Gabriel%20Braga&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%7C%20Analista%20de%20TI&descAlignY=58&descSize=20" width="100%"/>
 
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Full-Stack+%7C+React+%2F+Next.js+%2F+TypeScript;Automa%C3%A7%C3%B5es+com+n8n+%2B+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Full-Stack+%7C+React+%2F+Next.js+%2F+TypeScript;Automa%C3%A7%C3%B5es+com+n8n+%2B+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
